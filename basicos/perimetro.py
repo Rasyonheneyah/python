@@ -1,0 +1,6 @@
+altura = input()
+altura = int(altura)
+base = input()
+base = int(base)
+perimetro = (base*2) + (altura*2)
+print(perimetro)
